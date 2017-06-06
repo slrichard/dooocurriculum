@@ -12,15 +12,19 @@ Introduce concepts about how online identity is created, managed, and represente
 
 ## Activity
 
-Google yourself! Write a Third Person biography of yourself based on what you find. Make sure you include pictures! 
+Lynda Barry drawing jam (on paper) with occupuations or style of person.
+Google three occupations or style of person and compare to drawing jam results. How far down do you have to go to find diversity? Google Search.
+Discuss what cultural assumptions about each occupation are embedded in search results and the drawing jam.
+Google yourself! Construct an occupation description / 150 bio based on the images you have found. 
 
-## Questions
+## Questions (Designed to curate their identity)
 
 * What are the top websites and apps that you use daily?
-* How much time do you spend on your phone or online?
-* On the past 4-5 years, how has your acticity online changed?
 * Do you ever self-censor online? If so, which sites?
 * Have you ever actively removed content because of concerns about how it relected on your digitial identity? Why?
+* If you could map out a digital identity based on all your activities online, what would it look like?
+* Now that you are in college is there be anything you would change, hide, or amplify? How are you going to go about making those changes?
+
 
 ## Instructor Guide
 
